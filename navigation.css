@@ -1,0 +1,16 @@
+li {
+    display: inline;
+}
+
+a.home:hover {
+    color: #FC321C;
+}
+
+.background:hover {
+    background-color: blueviolet;
+}
+
+.projects:active {
+    margin: 0 5px 0 5px;
+    background-color: blue;
+}
